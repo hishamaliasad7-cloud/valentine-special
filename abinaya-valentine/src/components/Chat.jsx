@@ -1,6 +1,6 @@
 
 import { useEffect } from "react";
-import { speakTamil, playMsgSound } from "../utils/voice";
+import { speakTamil, playMsgSound } from "../utlis/voice";
 
 export default function Chat({messages,index}){
 

@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import Chat from "./components/chat";
+import Chat from "./components/Chat";
 import FinalProposal from "./components/FinalProposal";
 import FloatingHearts from "./components/FloatingHearts";
 export default function App(){
