@@ -58,7 +58,7 @@ export default function App(){
             <div className="w-full mx-auto bg-gradient-to-b from-pink-500 via-rose-500 to-purple-600 rounded-lg shadow-2xl overflow-hidden backdrop-blur-xl flex flex-col md:flex-row md:max-w-5xl lg:max-w-7xl md:h-96 lg:h-[28rem] h-auto p-4 md:p-0">
               <div className="flex-shrink-0 w-full md:w-2/5 h-64 md:h-full overflow-hidden relative rounded-lg md:rounded-l-lg">
                 <img
-                  src="img/us.jpeg"
+                  src="/us.jpeg"
                   alt="Us together"
                   className="w-full h-full object-contain block rounded-lg md:rounded-l-lg"
                   loading="lazy"
